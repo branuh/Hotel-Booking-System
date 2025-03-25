@@ -1,7 +1,7 @@
 # Hotel-Booking-System
 Final Project With Emobilis
 
-DJANGO
+#DJANGO
 THis is a python web framework (a software framework that simplifies the development of web apps by providing a structure and common components (tools and libs to handle common web dev tasks) )
 routing : mapping url routes to various pages or functionalities
 Authentication : authorization , identity
